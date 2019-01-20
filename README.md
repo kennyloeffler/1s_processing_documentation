@@ -43,7 +43,7 @@ First, i prepared a Processing sketch to generate my ornament. I used sin() and 
 When i was happy with my sketch, i exported it as a .PDF using a the PDF library. I imported the PDF into Adobe Illustrator and exported it as a .SVG file. Mr. Beam can read G-Code, and SVG paths are written in G-Code. After that, the file was ready for laser-cutting.
 It´s easy to connect to the Mr. Beam Interface, just log in via WLAN. Drop the file, adjust the starting point and start the lazzzer!
 
-![Circles-Finished](/images/circles_lasered.png)
+![Circles-Finished](/images/circles_lasered.jpg)
 
 ### What i learned: 
 
