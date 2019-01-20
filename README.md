@@ -1,7 +1,11 @@
 # Processing Documentation 1WS 18/19 
-Documentation of my processing sketches i worked in the first semester
+This is a documentation of my processing sketches i have worked on in my first semester.
 
-![GitHub Logo](/astronaut.png)
+## TEST
+
+###TEST 
+
+!(/astronaut.png)
 
 
 
