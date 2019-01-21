@@ -53,7 +53,7 @@ Using the Mr.Beam lasercutter is simple and easy. In future i want to work again
 ## Audioreactive Shape
 
 This one was really fun! I love sound, and i love visuals. So i tried to combine both worlds, to create an interactive audio shape.
-I used the Sound library to get my audio-input from the microphone. For the interface, i used the CP5 library again. I wanted to controll every single dot, thats why i didn´t made the 3D-Sphere by myself, because i had problems to understand the mapping-function. The original sphere idea came from Daniel Shiffman ( https://www.youtube.com/watch?v=RkuBWEkBrZA&t=736s ).
+I used the Sound library to get my audio-input from the microphone. For the interface, i used the CP5 library again. I wanted to controll every single dot, thats why i didn´t made the 3D-Sphere by myself. The original sphere idea came from Daniel Shiffman ( https://www.youtube.com/watch?v=RkuBWEkBrZA&t=736s ).
 
 ![Circles-Finished](/images/3dshape3.png)
 Default View
@@ -69,6 +69,7 @@ After tweaking the sliders
 
 
 ### What i learned: 
+I learned a lot about connection between different inputs and outputs. The map() function helped me, to set the min and max values of the sliders. I also set the minimum audio input from the microphone to a level, where it needs to be a little bit loud, so the sphere won´t react on a pin that falls to the floor. 
 
 # My future with Processing
 
