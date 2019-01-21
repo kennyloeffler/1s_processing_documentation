@@ -3,8 +3,9 @@ This is a documentation of my processing sketches i have worked on in my first s
 
 #### Why did i choosed the Processing course?
 
-
-
+I first started with Processing in 2017, only for fun. When i applied on the Fachhochschule Potsdam, i put some of my previous works in to my application portfolio. The Processing course and the Interfacelab was one of my reasons to study Interfacedesign in Potsdam.
+I am interested in connecting things, i want to create "multi-media-expiriences" , where as most senses as possible are stimulated.
+Here is Processing a good start in to this world.
 
 ## "Paint for poor people"
 
@@ -72,6 +73,13 @@ After tweaking the sliders
 I learned a lot about connection between different inputs and outputs. The map() function helped me, to set the min and max values of the sliders. I also set the minimum audio input from the microphone to a level, where it needs to be a little bit loud, so the sphere won´t react on a pin that falls to the floor. 
 
 # My future with Processing
+
+As mentioned before, i study because i want to connect things. I want to create "multi-media-expiriences", where people can create music or visuals different and in new ways. Processing is a good tool, but it is also connectable to other tools and devices. In the course we already worked with the Arduino. This set of tools and devices is also connectable to Ableton. 
+Ableton is a company from Berlin which is producing a DAW (Digital Audio Workstation) called Live. I produce electronic music with Ableton Live, and also play this music live in clubs. To produce a "multi-medial-expirience", Ableton Live has an integrated tool called "Max for Live". With Max for Live, i am able to add features, instruments or effects by my self. I can connect these extensions to devices like Processing or Arduino and create an expirience that goes beond "just" music.
+I hope i can proceed my study on the FH;P in this direction and learn more about visualizations, multi-media-instalations, interactive technology and of course, music.
+
+
+
 
 
 
