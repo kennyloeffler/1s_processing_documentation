@@ -75,7 +75,11 @@ I learned a lot about connection between different inputs and outputs. The map()
 # My future with Processing
 
 As mentioned before, i study because i want to connect things. I want to create "multi-media-expiriences", where people can create music or visuals different and in new ways. Processing is a good tool, but it is also connectable to other tools and devices. In the course we already worked with the Arduino. This set of tools and devices is also connectable to Ableton. 
-Ableton is a company from Berlin which is producing a DAW (Digital Audio Workstation) called Live. I produce electronic music with Ableton Live, and also play this music live in clubs. To produce a "multi-medial-expirience", Ableton Live has an integrated tool called "Max for Live". With Max for Live, i am able to add features, instruments or effects by my self. I can connect these extensions to devices like Processing or Arduino and create an expirience that goes beond "just" music.
+Ableton is a company from Berlin which is producing a DAW (Digital Audio Workstation) called Live. I produce electronic music with Ableton Live, and also play this music live in clubs. To produce a "multi-medial-expirience", Ableton Live has an integrated tool called "Max for Live". 
+
+![Circles-Finished](/images/maxforlive.png)
+
+With Max for Live, i am able to add features, instruments or effects by my self. I can connect these extensions to devices like Processing or Arduino and create an expirience that goes beond "just" music.
 I hope i can proceed my study on the FH;P in this direction and learn more about visualizations, multi-media-instalations, interactive technology and of course, music.
 
 
