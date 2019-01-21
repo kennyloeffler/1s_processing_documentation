@@ -56,11 +56,16 @@ This one was really fun! I love sound, and i love visuals. So i tried to combine
 I used the Sound library to get my audio-input from the microphone. For the interface, i used the CP5 library again. I wanted to controll every single dot, thats why i didn´t made the 3D-Sphere by myself, because i had problems to understand the mapping-function. The original sphere idea came from Daniel Shiffman ( https://www.youtube.com/watch?v=RkuBWEkBrZA&t=736s ).
 
 ![Circles-Finished](/images/3dshape3.png)
+Default View
 ![Circles-Finished](/images/3dshape2.png)
+After the checkbox "Rotation" is clicked
 
 
 ![Circles-Finished](/images/3dshape4.png)
+The Interface
 ![Circles-Finished](/images/3dshape1.png)
+After tweaking the sliders
+
 
 
 ### What i learned: 
